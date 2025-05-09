@@ -1,0 +1,28 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Recipe Book'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Welcome to the Recipe Book 🍽️"
+Content = "A curated collection of my favorite recipes."
+
+[params]
+hideSummary = true
+hideMeta = true
+socialIcons = [
+  { name = "GitHub", url = "https://github.com/heymichellemac/recipe-site" }
+]
+
+[menu]
+  [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 2

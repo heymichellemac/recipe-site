@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lunch on Recipe Book</title>
+    <link>//localhost:1313/tags/lunch/</link>
+    <description>Recent content in Lunch on Recipe Book</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/lunch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roasted root vegetable soup</title>
+      <link>//localhost:1313/posts/roasted-root-veg-soup/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/roasted-root-veg-soup/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Serves: 4&lt;/li&gt;
+&lt;li&gt;Prep time: 10 minutes&lt;/li&gt;
+&lt;li&gt;Cook time: 65 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4 carrots&lt;/li&gt;
+&lt;li&gt;2 parsnips&lt;/li&gt;
+&lt;li&gt;1 leek&lt;/li&gt;
+&lt;li&gt;1 large potato&lt;/li&gt;
+&lt;li&gt;1.2l vegetable stock&lt;/li&gt;
+&lt;li&gt;1tsp thyme&lt;/li&gt;
+&lt;li&gt;1 onion&lt;/li&gt;
+&lt;li&gt;3-4 garlic cloves&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Chop the carrots, parsnips, potato, garlic and add to a baking tray. Season and drizzle with olive oil.&lt;/li&gt;
+&lt;li&gt;Cook for 1 hour at 200C.&lt;/li&gt;
+&lt;li&gt;20 minutes before the veg are finished in the oven, put the leek and onion into a large saucepan with veg stock and thyme.&lt;/li&gt;
+&lt;li&gt;Simmer for 20 minutes.&lt;/li&gt;
+&lt;li&gt;Transfer the roasted veg into the saucepan and simmer for 5 minutes.&lt;/li&gt;
+&lt;li&gt;Blitz up into a soup and serve with crusty rolls.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
