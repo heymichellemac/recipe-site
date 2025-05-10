@@ -20,7 +20,7 @@ tags = ['baking']
 
 ## Method
 1. Preheat the oven to 180C.
-2. Melt the butteer in a saucepan until melted.
+2. Melt the butter in a saucepan until melted.
 3. Mix butter, brown sugar, and caster sugar until combined.
 4. Add egg and beat for 10-15 seconds.
 5. Add flour and salt and combine into a smooth dough.
@@ -29,4 +29,4 @@ tags = ['baking']
 8. Bake for 10-12 minutes until golden
 
 ## Notes
-Eat within 3 days or so
+Eat within 3 days or so.
